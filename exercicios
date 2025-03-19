@@ -1,0 +1,33 @@
+Arthur
+
+for (let i = 1; i <= 10; i++) {
+  console.log(i);
+}
+
+Gabriel
+
+for (i = 10; i > 0; i--) {
+  console.log(i);
+}
+
+
+Giovanna
+  for (let i = 2; i <= 20; i++) {
+    if (i % 2 == 0) {
+      console.log(i);
+    }
+}
+guilherme
+for (let i = 1; i <= 20; i++) {
+    if (i % 2 == 0) {
+      } else{ i % 0
+      console.log(i);
+    }
+} 
+
+joao
+let numero = 05
+
+for (let i = 1; i <= 10; i++) {
+  console.log(numero * i)
+}
