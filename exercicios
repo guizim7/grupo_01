@@ -31,3 +31,28 @@ let numero = 05
 for (let i = 1; i <= 10; i++) {
   console.log(numero * i)
 }
+
+kevin
+
+
+var soma = 0;
+for (var i = 1; i < 100 ; i++) {
+   
+  soma = soma + i;
+
+}
+
+  console.log(soma);
+
+Nathiely
+
+var multiplicacao = 1;
+for (var i = 1; i < 5 ; i++) {
+   
+  multiplicacao = multiplicacao * i;
+
+}
+
+  console.log(multiplicacao);
+  
+  
